@@ -1,39 +1,134 @@
-HealthyCare Hastane Yönetim Arayüzü
+# 🏥 HealthyCare - Modern Hastane Yönetim Arayüzü
 
-Bu proje, BTK Akademi Front-End Web Geliştirme eğitimi kapsamında geliştirilen modern bir hastane web sitesi arayüzüdür. Kullanıcı odaklı bir tasarımla hazırlanmış olup; sağlık hizmetlerinin tanıtılması, online randevu talebi ve interaktif bilgilendirme bölümlerini içermektedir. Sistem, bir sağlık kuruluşunun dijital varlığını güçlendirerek hem hastalar hem de yönetim için estetik ve işlevsel bir deneyim sunmayı amaçlamaktadır.
+HealthyCare, sağlık kuruluşlarının dijital görünürlüğünü güçlendirmek amacıyla geliştirilmiş, modern UI/UX prensiplerine uygun, tam duyarlı (responsive) ve kullanıcı odaklı bir hastane yönetim arayüzü projesidir.
 
-🚀 Proje Teknolojileri
+---
 
-HTML5 – Semantik sayfa yapısı
+# 📝 Proje Hakkında
 
-CSS3 – Özel stil tasarımları ve modern görselleştirme
+Bu proje, **BTK Akademi Front-End Web Geliştirme Eğitimi** kapsamında geliştirilmiştir. Arayüz tasarımı; sağlık hizmetlerinin tanıtımı, online randevu sistemi, tesis galerisi ve kullanıcı etkileşimlerini modern web teknolojileri ile bir araya getirmektedir.
 
-Bootstrap 5 – Responsive (mobil uyumlu) ızgara sistemi
+Kullanıcı deneyimini ön planda tutan yapı sayesinde proje; masaüstü, tablet ve mobil cihazlarda yüksek performanslı bir görünüm sunmaktadır.
 
-JavaScript (jQuery) – Dinamik kullanıcı etkileşimleri
+---
 
-AOS (Animate On Scroll) – Akıcı sayfa animasyonları
+# 🚀 Kullanılan Teknolojiler
 
-Magnific Popup – Etkileşimli galeri ve modal yapıları
+| Teknoloji | Açıklama |
+|---|---|
+| HTML5 | Semantik yapı ve SEO uyumlu içerik sistemi |
+| CSS3 | Modern tasarım ve özel stil yapıları |
+| Bootstrap 5 | Mobile-first responsive grid sistemi |
+| JavaScript | Dinamik kullanıcı etkileşimleri |
+| jQuery | DOM işlemleri ve form yönetimi |
+| AOS | Scroll animasyon efektleri |
+| Magnific Popup | Galeri ve modal sistemleri |
 
-📋 Proje Özellikleri
+---
 
-Tam Duyarlı Tasarım: Mobil, tablet ve masaüstü cihazlarla %100 uyumluluk.
+# 📋 Öne Çıkan Özellikler
 
-Hizmet Yönetimi: Ambulans, acil servis ve ücretsiz kontrol gibi bölümlerin görsel sunumu.
+## ✅ Tam Duyarlı Tasarım
+- Mobil, tablet ve masaüstü uyumluluğu
+- Responsive grid sistemi
+- Modern kullanıcı deneyimi
 
-Randevu Arayüzü: Kullanıcıların kolayca bilgi bırakabileceği randevu talep formu.
+## ✅ Hizmet Yönetimi Alanı
+- Ambulans hizmetleri
+- Acil servis bölümü
+- Ücretsiz sağlık kontrol alanları
+- İkon destekli bilgilendirme kartları
 
-Gelişmiş Galeri: Tesis ve ekip fotoğraflarının şık bir şekilde sergilenmesi.
+## ✅ İnteraktif Randevu Sistemi
+- Kullanıcı dostu form yapısı
+- Hızlı randevu oluşturma
+- Dinamik form kontrolleri
 
-Sosyal Kanıt: Gerçekçi hasta yorumları ve istatistik sayaçları bölümü.
+## ✅ Modern Galeri Sistemi
+- Hastane ortamı ve ekipman tanıtımı
+- Popup destekli galeri yapısı
+- Etkileşimli görsel deneyim
 
-İnteraktif Blog: Sağlık paylaşımları için tasarlanmış modern post alanı.
+## ✅ Sosyal Kanıt & İstatistikler
+- Hasta yorumları
+- Canlı sayaç animasyonları
+- Güven odaklı kullanıcı deneyimi
 
-📊 Tasarım ve Yapı
+## ✅ Sağlık Blogu
+- Güncel sağlık içerikleri
+- Modern kart yapısı
+- Blog paylaşım alanları
 
-Proje, modern UI/UX prensiplerine uygun olarak yapılandırılmıştır.
+---
 
-AOS kütüphanesi kullanılarak kullanıcı deneyimi dinamik efektlerle zenginleştirilmiştir.
+# 🛠️ Kurulum ve Çalıştırma
 
-Bileşenler arası uyum ve görsel hiyerarşi, kurumsal bir kimlik oluşturacak şekilde tasarlanmıştır.
+## 1️⃣ Projeyi Clone'layın
+
+```bash
+git clone https://github.com/kullaniciadi/hospital-interface.git
+```
+
+---
+
+## 2️⃣ Proje Klasörüne Girin
+
+```bash
+cd hospital-interface
+```
+
+---
+
+## 3️⃣ Projeyi Açın
+
+`index.html` dosyasını herhangi bir modern tarayıcı ile açarak projeyi çalıştırabilirsiniz.
+
+---
+
+# 📂 Proje Yapısı
+
+```bash
+HealthyCare/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+└── LICENSE
+```
+
+| Dosya | Açıklama |
+|---|---|
+| `index.html` | Ana sayfa yapısı |
+| `css/style.css` | Özelleştirilmiş stil dosyaları |
+| `js/main.js` | Dinamik efektler ve etkileşimler |
+| `images/` | Görsel içerikler |
+| `LICENSE` | MIT lisans dosyası |
+
+---
+
+# 🎯 Projenin Amacı
+
+Bu proje sayesinde:
+
+- Modern hastane arayüzü tasarımı oluşturulmuştur.
+- Responsive web geliştirme pratiği kazanılmıştır.
+- UI/UX prensipleri uygulanmıştır.
+- Front-End teknolojileri gerçek bir senaryoda kullanılmıştır.
+- Kullanıcı deneyimi odaklı web arayüzü geliştirilmiştir.
+
+---
+
+# 📜 Lisans
+
+Bu proje **MIT License** ile lisanslanmıştır.
+
+Detaylı bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
+
+---
+
+# 👩‍💻 Geliştirici
+
+**Şilan Pehlivan**
