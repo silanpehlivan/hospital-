@@ -25,6 +25,18 @@ Sağlık hizmetlerini tanıtmak için hazırlanan; randevu formu, galeri ve duya
 
 HTML · CSS · JavaScript · Bootstrap
 
+## Teknik yaklaşım
+
+HTML sayfa yapısı, CSS biçimlendirmesi ve JavaScript etkileşimleri sağlık hizmetleri tanıtımını oluşturur. Duyarlı düzen farklı ekran boyutlarında incelenebilir.
+
+## Kodu incelemeye başlayın
+
+- [index.html](index.html)
+
+## Kapsam ve sınırlar
+
+Randevu formu bir arayüz örneğidir; gerçek randevu kaydı veya hasta verisi yönetimi iddiası içermez.
+
 <details>
 <summary><strong>Kurulum, kullanım ve teknik ayrıntılar</strong></summary>
 
