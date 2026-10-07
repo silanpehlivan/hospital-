@@ -2,108 +2,31 @@
 
 # HealthyCare
 
-### Sağlık hizmetleri için temiz ve duyarlı bir arayüz.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=2200&color=38bdf8&background=0D1117&center=true&vCenter=true&width=760&height=76&lines=Sa%C4%9Fl%C4%B1k%20hizmetleri%20i%C3%A7in%20temiz%20ve%20duyarl%C4%B1%20bir%20aray%C3%BCz." alt="Sağlık hizmetleri için temiz ve duyarlı bir arayüz." width="760" />
 
-![HTML](https://img.shields.io/badge/HTML-2563eb?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-0891b2?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge)
-[![MIT](https://img.shields.io/badge/MIT-16a34a?style=for-the-badge)](LICENSE)
+<br />
+
+<img alt="HTML" src="https://img.shields.io/badge/HTML-38bdf8?style=for-the-badge" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-2563eb?style=for-the-badge" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge" />
+
+<br /><br />
 
 Sağlık hizmetlerini tanıtmak için hazırlanan; randevu formu, galeri ve duyarlı tasarım içeren front-end eğitim projesi.
 
-**Duyarlı sağlık hizmetleri arayüzü**
+<br />
 
-[Projeyi keşfet](https://github.com/silanpehlivan/hospital-/tree/main) · [Kurulum ve ayrıntılar](#projeyi-çalıştırmak-ve-incelemek)
+**Mobil, tablet ve masaüstü görünümü** &nbsp; · &nbsp; **Hizmet tanıtımı ve randevu formu arayüzü** &nbsp; · &nbsp; **Galeri, ikonlar ve kaydırma animasyonları**
+
+<br /><br />
+
+[![Projeyi keşfet](https://img.shields.io/badge/PROJEYİ_KEŞFET-2563eb?style=for-the-badge)](https://github.com/silanpehlivan/hospital-/tree/main)
+[![Kurulum](https://img.shields.io/badge/KURULUM_&_TEKNİK_NOTLAR-334155?style=for-the-badge)](PROJECT_GUIDE.md)
 
 </div>
 
 ---
 
-## İçeride neler var?
-
-- **01** · Mobil, tablet ve masaüstü görünümü
-- **02** · Hizmet tanıtımı ve randevu formu arayüzü
-- **03** · Galeri, ikonlar ve kaydırma animasyonları
-
-## Projeyi çalıştırmak ve incelemek
-
-<details>
-<summary><strong>Kurulum, kod yapısı ve teknik notları aç</strong></summary>
-
-## Öne Çıkanlar
-
-- Mobil, tablet ve masaüstü görünümü
-- Hizmet tanıtımı ve randevu formu arayüzü
-- Galeri, ikonlar ve kaydırma animasyonları
-
-## Teknolojiler
-
-HTML · CSS · JavaScript · Bootstrap
-
-### Teknik yaklaşım
-
-HTML sayfa yapısı, CSS biçimlendirmesi ve JavaScript etkileşimleri sağlık hizmetleri tanıtımını oluşturur. Duyarlı düzen farklı ekran boyutlarında incelenebilir.
-
-### Kodu incelemeye başlayın
-
-- [index.html](index.html)
-
-### Kapsam ve sınırlar
-
-Randevu formu bir arayüz örneğidir; gerçek randevu kaydı veya hasta verisi yönetimi iddiası içermez.
-
-
-
-HealthyCare, sağlık kuruluşlarının dijital görünürlüğünü güçlendirmek amacıyla geliştirilmiş, modern UI/UX prensiplerine uygun, tam duyarlı (responsive) ve kullanıcı odaklı bir hastane yönetim arayüzü projesidir.
-
-## Proje Hakkında
-Bu proje, **BTK Akademi Front-End Web Geliştirme Eğitimi** kapsamında geliştirilmiştir. Arayüz tasarımı; sağlık hizmetlerinin tanıtımı, online randevu sistemi, tesis galerisi ve kullanıcı etkileşimlerini modern web teknolojileri ile bir araya getirmektedir.
-
-Kullanıcı deneyimini ön planda tutan yapı sayesinde proje; masaüstü, tablet ve mobil cihazlarda yüksek performanslı bir görünüm sunmaktadır.
-
-## Kullanılan Teknolojiler
-| Teknoloji | Açıklama |
-|---|---|
-| **HTML5** | Semantik yapı ve SEO uyumlu içerik sistemi |
-| **CSS3** | Modern tasarım ve CDN üzerinden AOS/Bootstrap desteği |
-| **Bootstrap 5** | Responsive grid sistemi (CDN) |
-| **JavaScript** | AOS (Animate On Scroll) ve Magnific Popup etkileşimleri |
-| **Font-Awesome** | Profesyonel tıbbi ikon setleri |
-
-## Öne Çıkan Özellikler
-*    **Tam Duyarlı Tasarım**: Mobil, tablet ve masaüstü uyumluluğu.
-*    **Hizmet Yönetimi**: Ambulans, acil servis ve ücretsiz kontrol alanları.
-*    **İnteraktif Randevu Sistemi**: Kullanıcı dostu randevu formu.
-*    **Modern Galeri**: Magnific Popup destekli görsel sergileme.
-*    **Animasyonlar**: AOS kütüphanesi ile akıcı sayfa geçişleri.
-
-## Proje Yapısı
-```text
-hospital--main/
-├── index.html              # Ana sayfa ve tüm içerik yapısı
-├── depositphotos_...jpg    # Kapak görseli
-├── LICENSE                 # Lisans dosyası
-└── README.md               # Proje dökümantasyonu
-```
-## Kurulum ve Çalıştırma
-
-1.   **Projeyi Clone'layın**:
-    ```bash
-    git clone https://github.com/silanpehlivan/hospital-.git
-    ```
-2.   **Projeyi Açın**: `index.html` dosyasını herhangi bir modern tarayıcı (Chrome, Edge vb. ) ile açarak projeyi görüntüleyebilirsiniz.
-
-
-
-
-</details>
-
----
-
 <div align="center">
-
-**© 2023 Şilan PEHLİVAN**
-
-Bu proje MIT lisansı kapsamında sunulmaktadır. Kullanım ve dağıtım koşulları: [LICENSE](LICENSE).
-
+<sub>© 2023 Şilan PEHLİVAN · <a href="LICENSE">MIT lisansı</a></sub>
 </div>
