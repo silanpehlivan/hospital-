@@ -2,18 +2,33 @@
 
 # HealthyCare
 
-**Duyarlı sağlık hizmetleri arayüzü**
+### Sağlık hizmetleri için temiz ve duyarlı bir arayüz.
 
-![HTML](https://img.shields.io/badge/HTML-2563eb?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-0891b2?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=flat-square)
-[![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)](LICENSE)
+![HTML](https://img.shields.io/badge/HTML-2563eb?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-0891b2?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge)
+[![MIT](https://img.shields.io/badge/MIT-16a34a?style=for-the-badge)](LICENSE)
 
 Sağlık hizmetlerini tanıtmak için hazırlanan; randevu formu, galeri ve duyarlı tasarım içeren front-end eğitim projesi.
+
+**Duyarlı sağlık hizmetleri arayüzü**
+
+[Projeyi keşfet](https://github.com/silanpehlivan/hospital-/tree/main) · [Kurulum ve ayrıntılar](#projeyi-çalıştırmak-ve-incelemek)
 
 </div>
 
 ---
+
+## İçeride neler var?
+
+- **01** · Mobil, tablet ve masaüstü görünümü
+- **02** · Hizmet tanıtımı ve randevu formu arayüzü
+- **03** · Galeri, ikonlar ve kaydırma animasyonları
+
+## Projeyi çalıştırmak ve incelemek
+
+<details>
+<summary><strong>Kurulum, kod yapısı ve teknik notları aç</strong></summary>
 
 ## Öne Çıkanlar
 
@@ -25,20 +40,19 @@ Sağlık hizmetlerini tanıtmak için hazırlanan; randevu formu, galeri ve duya
 
 HTML · CSS · JavaScript · Bootstrap
 
-## Teknik yaklaşım
+### Teknik yaklaşım
 
 HTML sayfa yapısı, CSS biçimlendirmesi ve JavaScript etkileşimleri sağlık hizmetleri tanıtımını oluşturur. Duyarlı düzen farklı ekran boyutlarında incelenebilir.
 
-## Kodu incelemeye başlayın
+### Kodu incelemeye başlayın
 
 - [index.html](index.html)
 
-## Kapsam ve sınırlar
+### Kapsam ve sınırlar
 
 Randevu formu bir arayüz örneğidir; gerçek randevu kaydı veya hasta verisi yönetimi iddiası içermez.
 
-<details>
-<summary><strong>Kurulum, kullanım ve teknik ayrıntılar</strong></summary>
+
 
 HealthyCare, sağlık kuruluşlarının dijital görünürlüğünü güçlendirmek amacıyla geliştirilmiş, modern UI/UX prensiplerine uygun, tam duyarlı (responsive) ve kullanıcı odaklı bir hastane yönetim arayüzü projesidir.
 
@@ -78,6 +92,8 @@ hospital--main/
     git clone https://github.com/silanpehlivan/hospital-.git
     ```
 2.   **Projeyi Açın**: `index.html` dosyasını herhangi bir modern tarayıcı (Chrome, Edge vb. ) ile açarak projeyi görüntüleyebilirsiniz.
+
+
 
 
 </details>
